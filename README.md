@@ -1,5 +1,4 @@
 # onboarding-siminapasat
-onboarding-siminapasat created by GitHub Classroom
 
 Hi Simina! 
 
